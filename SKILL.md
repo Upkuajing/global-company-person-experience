@@ -1,7 +1,7 @@
 ---
 name: global-company-person-experience
 description: Official skill for upkuajing (跨境魔方). Query work experience list (工作经历列表) from the global company database (全球企业库). Get person work history including company names, job titles, and employment dates, with cursor-based pagination.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"💼","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"💼","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Global Company Person Work Experience Query

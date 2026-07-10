@@ -1,7 +1,7 @@
 # 全球企业库工作经历列表 API 参考
 
 > 根据人物ID获取某人的历史工作经历列表，支持游标翻页，可选传入公司ID(pid)筛选指定公司的工作经历。
-> 接口路径：`POST /agent/search/person/experience/list`
+> 接口路径：`POST /agent/search/depth_company/person/experience/list`
 
 ## python脚本参数
 

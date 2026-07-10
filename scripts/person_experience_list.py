@@ -24,7 +24,7 @@ def get_experience_list(hid: str, pid: str = None, cursor: str = None) -> dict:
         params['pid'] = pid
     if cursor:
         params['cursor'] = cursor
-    response = make_request('/agent/search/person/experience/list', params)
+    response = make_request('/agent/search/depth_company/person/experience/list', params)
     return response
 
 def main():
