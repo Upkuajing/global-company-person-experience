@@ -1,7 +1,7 @@
 ---
 name: global-company-person-experience
 description: "Check overseas staff’s education history via personnel ID. Access their university, degree, major and GPA data to support candidate screening and background checks.\n\nTrigger: employee education verification, personnel academic background check, candidate qualification assessment, pre‑hire screening, overseas staff background validation"
-metadata: {"version":"1.0.2","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"💼","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.3","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"💼","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Global Company Person Work Experience Query
