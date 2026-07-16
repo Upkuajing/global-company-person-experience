@@ -1,7 +1,7 @@
 ---
 name: global-company-person-experience
-description: Official skill for upkuajing (跨境魔方). Query work experience list (工作经历列表) from the global company database (全球企业库). Get person work history including company names, job titles, and employment dates, with cursor-based pagination.
-metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"💼","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+description: "Check overseas staff’s education history via personnel ID. Access their university, degree, major and GPA data to support candidate screening and background checks.\n\nTrigger: employee education verification, personnel academic background check, candidate qualification assessment, pre‑hire screening, overseas staff background validation"
+metadata: {"version":"1.0.2","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"💼","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Global Company Person Work Experience Query
@@ -163,3 +163,6 @@ Other UpKuaJing skills you might find useful:
 - upkuajing-global-company-people-search — Unified company and people search across all sources
 - upkuajing-customs-trade-company-search — Search customs trade companies
 - upkuajing-contact-info-validity-check — Check contact info validity
+- phone-validity-check — Check phone number validity
+- email-validity-check — Check email address validity
+- domain-validity-check — Check domain validity and security
